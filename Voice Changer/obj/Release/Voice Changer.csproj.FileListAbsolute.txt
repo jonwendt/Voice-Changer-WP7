@@ -1,0 +1,88 @@
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\ApplicationIcon.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Background.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Images\play.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Images\record.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Images\save.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Images\stop.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\AppManifest.xaml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Voice_Changer.xap
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\App.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\Help.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\MainPage.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\Open.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\Voice Changer.g.resources
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Release\XapCacheFile.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\ApplicationIcon.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Background.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Images\play.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Images\record.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Images\save.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Images\stop.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\AppManifest.xaml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Voice_Changer.xap
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\App.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\Help.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\MainPage.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\Open.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\Voice Changer.g.resources
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Release\XapCacheFile.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\ApplicationIcon.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Background.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Images\play.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Images\record.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Images\save.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Images\stop.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\AppManifest.xaml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Voice_Changer.xap
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\App.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\Help.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\MainPage.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\Open.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\Voice Changer.g.resources
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy (3)\Voice Changer\obj\Release\XapCacheFile.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\ApplicationIcon.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Background.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Images\play.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Images\record.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Images\save.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Images\stop.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\AppManifest.xaml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Voice_Changer.xap
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\App.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\Help.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\MainPage.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\Open.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\Voice Changer.g.resources
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\XapCacheFile.xml

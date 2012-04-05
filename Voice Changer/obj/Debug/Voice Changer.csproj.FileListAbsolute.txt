@@ -1,0 +1,84 @@
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Background.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\App.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\Help.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\Voice Changer.g.resources
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Voice_Changer.xap
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Images\play.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Images\record.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Images\save.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Images\stop.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\obj\Debug\Open.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\App.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\Help.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\Open.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\Voice Changer.g.resources
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\Background.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\deep.wav
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\Images\play.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\Images\record.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\Images\save.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\Images\stop.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\Bin\Debug\Voice_Changer.xap
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer (Sample Test)\Voice Changer\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Background.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Images\play.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Images\record.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Images\save.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Images\stop.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Voice_Changer.xap
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\App.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\Help.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\Open.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\Voice Changer.g.resources
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\Background.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\deep.wav
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\Images\play.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\Images\record.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\Images\save.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\Images\stop.png
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\Bin\Debug\Voice_Changer.xap
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\App.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\Help.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\Open.g.i.cs
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\Voice Changer.g.resources
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\Voice Changer.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\Voice Changer.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy - Copy\Voice Changer\obj\Debug\XapCacheFile.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer\Voice Changer\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Jon\Documents\Visual Studio 2010\Projects\Voice Changer - Copy\Voice Changer\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml

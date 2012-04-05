@@ -1,0 +1,17 @@
+﻿<xapCache source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Voice_Changer.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="4/5/2012 7:50:14 AM">
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="1/27/2011 12:08:40 AM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Background.png" archivePath="Background.png" lastWriteTime="1/12/2011 7:43:45 AM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="1/13/2011 1:33:46 AM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\obj\Release\Voice Changer.dll" archivePath="Voice Changer.dll" lastWriteTime="4/5/2012 7:50:12 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Toolkit\Nov10\Bin\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="11/2/2010 3:36:16 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Images\play.png" archivePath="Images\play.png" lastWriteTime="11/17/2010 9:24:42 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Images\record.png" archivePath="Images\record.png" lastWriteTime="11/17/2010 9:24:42 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Images\save.png" archivePath="Images\save.png" lastWriteTime="8/17/2010 3:41:24 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Images\stop.png" archivePath="Images\stop.png" lastWriteTime="11/17/2010 9:24:42 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="1/9/2011 8:42:40 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="1/20/2011 11:44:00 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Images\play.png" archivePath="Images\play.png" lastWriteTime="11/17/2010 9:24:42 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Images\record.png" archivePath="Images\record.png" lastWriteTime="11/17/2010 9:24:42 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Images\save.png" archivePath="Images\save.png" lastWriteTime="8/17/2010 3:41:24 PM" />
+  <file source="C:\Users\Jon\Documents\Visual Studio 2010\Projects\Windows Phone\Apps\Voice Changer\Voice Changer\Bin\Release\Images\stop.png" archivePath="Images\stop.png" lastWriteTime="11/17/2010 9:24:42 PM" />
+</xapCache>

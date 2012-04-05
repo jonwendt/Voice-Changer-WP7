@@ -1,0 +1,101 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Voice_Changer.Open"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Voice Changer" Style="{StaticResource PhoneTextNormalStyle}">
+            	<TextBlock.Foreground>
+            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+            	</TextBlock.Foreground>
+            </TextBlock>
+            <TextBlock x:Name="PageTitle" Text="open file" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}">
+            	<!--<TextBlock.Foreground>
+            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+            	</TextBlock.Foreground>-->
+            </TextBlock>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Button Content="Back to start page" Height="72" HorizontalAlignment="Left" Margin="5,530,0,0" Name="startpageButton" VerticalAlignment="Top" Width="450" Click="startpageButton_Click" />
+            <ListBox Name="recordingListBox" HorizontalAlignment="Stretch" Margin="0,0,0,206" VerticalAlignment="Stretch" ItemsSource="{Binding}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <Border BorderBrush="{StaticResource PhoneForegroundBrush}" BorderThickness="0" Background="Transparent" VerticalAlignment="Center" Padding="1">
+                            <HyperlinkButton Name="recordingFileName"
+                                             Click="recordingFileName_Click"
+                                             Content="{Binding FileName}"
+                                             Tag="{Binding fullFileName}"
+                                             FontSize="36"
+                                             HorizontalContentAlignment="Left">
+                            	<HyperlinkButton.Foreground>
+                            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                            	</HyperlinkButton.Foreground>
+                            </HyperlinkButton>
+                            </Border>
+                            <TextBlock Name="recordingDateCreated"
+                                             Text="{Binding DateCreated}"
+                                             Margin="10" IsHitTestVisible="False">
+                            	<TextBlock.Foreground>
+                            		<SolidColorBrush Color="{StaticResource PhoneContrastBackgroundColor}"/>
+                            	</TextBlock.Foreground>
+                            </TextBlock>
+                            <toolkit:ContextMenuService.ContextMenu>
+                                <toolkit:ContextMenu>
+                                    <toolkit:MenuItem Header="rename" Click="OnMenuClickedRename" Tag="{Binding fullFileName}" ItemsSource="{Binding}" />
+                                    <toolkit:MenuItem Header="delete" Click="OnMenuClickedDelete" Tag="{Binding fullFileName}" ItemsSource="{Binding}" />
+                                </toolkit:ContextMenu>
+                            </toolkit:ContextMenuService.ContextMenu>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <CheckBox Content="Use a new pitch" HorizontalAlignment="Left" Margin="0,0,0,142" Name="newPitchCheckBox" VerticalAlignment="Bottom" Height="69">
+            	<CheckBox.Foreground>
+            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+            	</CheckBox.Foreground>
+            </CheckBox>
+            <Slider Height="84" HorizontalAlignment="Stretch" LargeChange="0.25" Margin="0,458,1,65" Maximum="1" Minimum="-1" Name="pitchSlider" Visibility="Visible" Padding="0" />
+            <Canvas Height="335" Margin="52,5,36,0" Name="saveCanvas" VerticalAlignment="Top" Visibility="Collapsed" Opacity="1" Background="#FF797979">
+                <TextBox Canvas.Left="6" Canvas.Top="253" Height="71" Name="FileNameTextBox" Text="" Width="354" />
+                <TextBlock Canvas.Left="6" Canvas.Top="24" Name="textBlock1" Text="Please enter the name for the sound file in the text box below." TextWrapping="Wrap" Width="354" TextAlignment="Center" FontSize="34" />
+                <Button Canvas.Left="17" Canvas.Top="171" Content="Save" Height="80" Name="saveButton" Width="160" Click="saveButton_Click" />
+                <Button Canvas.Left="187" Canvas.Top="171" Content="Cancel" Height="80" Name="cancelButton" Width="160" Click="cancelButton_Click" />
+            </Canvas>
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

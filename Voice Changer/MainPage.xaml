@@ -1,0 +1,81 @@
+﻿    <phone:PhoneApplicationPage 
+    x:Class="Voice_Changer.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" IsEnabled="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel x:Name="TitlePanel" Grid.Row ="0" Margin="12,17,0,28" VerticalAlignment="Top">
+            <TextBlock x:Name="ApplicationTitle" Text="Voice Changer" Style="{StaticResource PhoneTextNormalStyle}">
+            	<TextBlock.Foreground>
+            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+            	</TextBlock.Foreground>
+            </TextBlock>
+            <TextBlock x:Name="UserHelp" Text="press record" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}">
+            	<!--<TextBlock.Foreground>
+            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+            	</TextBlock.Foreground>-->
+            </TextBlock>
+        </StackPanel>
+        <!--TitlePanel contains the name of the application and page title-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Image x:Name="StatusImage" Width="207" 
+               Source="/Voice%20Changer;component/Images/mouth.png" Margin="129,0,120,302" HorizontalAlignment="Center" Stretch="Uniform" />
+            <Slider Height="84" HorizontalAlignment="Stretch" Margin="0,281,0,170" Name="pitchSlider" Maximum="1" Minimum="-1" LargeChange="0.25" Padding="0" IsEnabled="True" />
+            <Button Content="Open" Margin="0,443,20,0" Height="72" HorizontalAlignment="Right"  Name="openButton" VerticalAlignment="Top" Width="200" IsEnabled="True" Click="openButton_Click" />
+            <Button Content="Help" Margin="20,443,0,0" Height="72" Name="helpButton" VerticalAlignment="Top" Click="helpButton_Click" Width="200" HorizontalAlignment="Left" />
+            <Rectangle Height="80" Width="80" Margin="10,347,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Image Height="80" Margin="10,347,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Name="vaderImage" Stretch="Fill" Source="/Voice%20Changer;component/Images/darkvader.png" Width="80" MouseLeftButtonDown="HyperlinkButton_Click1" />
+            <Rectangle Height="80" Width="80" Margin="365,350,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                <Rectangle.Fill>
+                    <SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Image Height="80" HorizontalAlignment="Left" Margin="365,350,0,0" Name="mouseImage" Stretch="Fill" VerticalAlignment="Top" Width="80" Source="/Voice%20Changer;component/Images/darkmouse.png" MouseLeftButtonDown="HyperlinkButton_Click2" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="12,251,0,0" Name="textBlock2" Text="Pitch control:" VerticalAlignment="Top" FontSize="26" >
+            	<TextBlock.Foreground>
+            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+            	</TextBlock.Foreground>
+            </TextBlock>
+            <Canvas Height="335" Margin="52,5,36,0" Name="saveCanvas" VerticalAlignment="Top" Visibility="Collapsed" Opacity="1" Background="#FF797979">
+                <TextBox Canvas.Left="6" Canvas.Top="253" Height="71" Name="FileNameTextBox" Text="" Width="354" />
+                <TextBlock Canvas.Left="6" Canvas.Top="24" Name="textBlock1" Text="Please enter the name for the sound file in the text box below." TextWrapping="Wrap" Width="354" TextAlignment="Center" FontSize="34" />
+                <Button Canvas.Left="17" Canvas.Top="171" Content="Save" Height="80" Name="saveButton2" Width="160" Click="saveButton2_Click" />
+                <Button Canvas.Left="187" Canvas.Top="171" Content="Cancel" Height="80" Name="cancelButton" Width="160" Click="cancelButton_Click" />
+            </Canvas>
+            <!--Canvas Margin="52,58,36,0"-->
+            <!--ContentPanel - place additional content here-->
+        </Grid>
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="False">
+            <shell:ApplicationBar.Buttons>
+                <shell:ApplicationBarIconButton x:Name="recordButton" Text="record" IconUri="/Images/record.png" Click="recordButton_Click" IsEnabled="True"/>
+                <shell:ApplicationBarIconButton x:Name="playButton" Text="play" IconUri="/Images/play.png" Click="playButton_Click" IsEnabled="False"/>
+                <shell:ApplicationBarIconButton x:Name="stopButton" Text="stop" IconUri="/Images/stop.png" Click="stopButton_Click" IsEnabled="False"/>
+                <shell:ApplicationBarIconButton x:Name="saveButton" Text="save" IconUri="/Images/save.png" Click="saveButton_Click" IsEnabled="False"/>
+                
+            </shell:ApplicationBar.Buttons>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

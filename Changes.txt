@@ -1,0 +1,9 @@
+V 1.0
+----------------
+The app records, plays back, and saves a recording, allowing the user to change the pitch. The pitch is saved with the file, so when the file is opened at a later time, is has the same pitch. The user also has the option of using a new pitch.
+
+
+
+V 1.1
+----------------
+Major UI changes. The slider pictures now change color based on the user's accent color and theme choice. All text is now the accent color, except the page titles, version number, and tech support email. The date when the recording was saved no longer turns blue when selected. The user can now rename and delete recordings on the same page they can play them back by tapping and holding the file name.

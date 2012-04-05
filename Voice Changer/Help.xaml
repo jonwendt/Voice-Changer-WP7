@@ -1,0 +1,79 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Voice_Changer.Help"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,13">
+            <TextBlock x:Name="ApplicationTitle" Text="Voice Changer" Style="{StaticResource PhoneTextNormalStyle}">
+            	<TextBlock.Foreground>
+            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+            	</TextBlock.Foreground>
+            </TextBlock>
+            <TextBlock x:Name="PageTitle" Text="instructions" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}">
+            	<!--<TextBlock.Foreground>
+            		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+            	</TextBlock.Foreground>-->
+            </TextBlock>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Border Height="341" VerticalAlignment="Top" BorderBrush="{StaticResource PhoneForegroundBrush}" BorderThickness="1" Margin="0,0,0,217">
+                <ScrollViewer Padding="10" Name="scrollViewer1" Width="456">
+                    <TextBlock FontSize="24" Name="textBlock1" Text="Tap the record button and start speaking. Then, tap stop when you're done. You can tap the play button to hear back the recording. The slider at the bottom of the start page controls the pitch change. Slide to the left to make your voice lower, and slide to the right to make your voice higher. If you tap the save button, your recording with the pitch change will be saved with the file name of your choice. Tap the open button to see a list of previously saved recordings. You can play them back by tapping their names. If you check the &quot;use a new pitch&quot; box, you can set a new pitch for the recording. Tap and hold a file to delete it. Have fun!
+                               " TextWrapping="Wrap">
+                    	<TextBlock.Foreground>
+                    		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                    	</TextBlock.Foreground>
+                    </TextBlock>
+                </ScrollViewer>
+            </Border>
+            <Border Padding="10" BorderBrush="{StaticResource PhoneForegroundBrush}" BorderThickness="1" Margin="0,368,0,211">
+                <TextBlock FontSize="24" TextAlignment="Left" VerticalAlignment="Center" HorizontalAlignment="Left" Width="207" Text="Version number:" ><TextBlock.Foreground>
+                		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                	</TextBlock.Foreground></TextBlock>
+            </Border>
+            <Border Padding="10" BorderBrush="{StaticResource PhoneForegroundBrush}" BorderThickness="1" Margin="0,438,0,99">
+                <TextBlock Text="Please send any questions, comments, or suggestions to:" FontSize="24" TextAlignment="Left" VerticalAlignment="Center" TextWrapping="Wrap" >
+                	<TextBlock.Foreground>
+                		<SolidColorBrush Color="{StaticResource PhoneAccentColor}"/>
+                	</TextBlock.Foreground>
+                </TextBlock>
+            </Border>
+            <HyperlinkButton Content="BoredJonProductions" HorizontalAlignment="Right" Margin="0,481,36,0" Name="hyperlinkButton1" VerticalAlignment="Top" FontSize="24" HorizontalContentAlignment="Left" Click="hyperlinkButton1_Click" />
+            <Button Content="Back to start page" Height="72" HorizontalAlignment="Left" Margin="0,538,0,0" Name="startpageButton" VerticalAlignment="Top" Width="457" Click="startpageButton_Click" />
+        </Grid>
+        <TextBlock Margin="206,0,0,216" Grid.Row="1" TextWrapping="Wrap" Text="1.1" VerticalAlignment="Bottom" HorizontalAlignment="Left" FontSize="24"/>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>
